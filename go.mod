@@ -1,6 +1,6 @@
-module github.com/fermyon/otel-plugin
+module github.com/spinframework/otel-plugin
 
-replace github.com/fermyon/otel-plugin => ../
+replace github.com/spinframework/otel-plugin => ../
 
 go 1.22.4
 

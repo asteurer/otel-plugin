@@ -7,8 +7,8 @@ import (
 	"path"
 	"strings"
 
-	open "github.com/fermyon/otel-plugin/cmd/open"
 	"github.com/spf13/cobra"
+	open "github.com/spinframework/otel-plugin/cmd/open"
 )
 
 var rootCmd = &cobra.Command{
