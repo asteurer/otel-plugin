@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"path"
 
-	"github.com/fermyon/otel-plugin/internal/stack"
 	"github.com/spf13/cobra"
+	"github.com/spinframework/otel-plugin/internal/stack"
 )
 
 var (
